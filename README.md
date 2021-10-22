@@ -30,6 +30,6 @@ python pcheck.py
 Вводим номер телефона.
 ```
 Скриншоты:
-![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/kali.png)
-![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/win10.png)
-![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/termux.png)
+![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/kali.png)
+![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/win10.png)
+![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/termux.png)

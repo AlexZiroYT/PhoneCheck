@@ -14,6 +14,13 @@ cd PhoneCheck
 pcheck.py
 Вводим номер телефона.
 ```
+> **KaliLinux:**
+```
+git clone https://github.com/AlexZiroYT/PhoneCheck
+cd PhoneCheck
+python pcheck.py
+Вводим номер телефона.
+```
 > **Termux:**
 ```
 git clone https://github.com/AlexZiroYT/PhoneCheck
@@ -22,14 +29,7 @@ pip install -r requirements.txt
 python pcheck.py
 Вводим номер телефона.
 ```
-> **KaliLinux:**
-```
-git clone https://github.com/AlexZiroYT/PhoneCheck
-cd PhoneCheck
-python pcheck.py
-Вводим номер телефона.
-```
 Скриншоты:
-![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/kali.png)
 ![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/win10.png)
+![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/kali.png)
 ![alt text](https://raw.githubusercontent.com/AlexZiroYT/PhoneCheck/master/termux.png)
